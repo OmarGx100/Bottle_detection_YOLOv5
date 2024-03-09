@@ -1,0 +1,15 @@
+description: Ultralytics YOLOv5s model trained on data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2024-03-06T23:05:47.684667'
+version: 8.1.12
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: blue bottle
+  1: red bottle
+  2: yellow bottle
