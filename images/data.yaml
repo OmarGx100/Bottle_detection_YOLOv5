@@ -1,0 +1,15 @@
+names:
+- blue bottle
+- red bottle
+- yellow bottle
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: bottle_detection-7pff5
+  url: https://universe.roboflow.com/graduation-project-fzgrg/bottle_detection-7pff5/dataset/1
+  version: 1
+  workspace: graduation-project-fzgrg
+path: C:\Users\omarm\Desktop\bottle_detection-1
+test: ./test/images
+train: ./train/images
+val: ./valid/images

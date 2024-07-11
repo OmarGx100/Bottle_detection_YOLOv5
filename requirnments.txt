@@ -3,3 +3,5 @@ ultralytics
 torchvision 
 opencv-python 
 paho-mqtt
+numpy
+supervision
